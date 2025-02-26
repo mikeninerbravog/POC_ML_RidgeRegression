@@ -18,8 +18,8 @@ This repository demonstrates how **Ridge Regression** improves predictions by re
 
 ### Step 1: Open the Notebooks in Colab
 Click the links below to open the examples directly in **Google Colab**:
-- [Predicting Real Estate Prices](https://github.com/mikeninerbravog/POC_ML_RidgeRegression/blob/master/PocMLSupervisedL_RidgeRegression.ipynb)
-- [Forecasting Supermarket Sales](https://github.com/mikeninerbravog/POC_ML_RidgeRegression/blob/master/PocMLSupervisedL_RidgeRegression.ipynb)
+- [Predicting Real Estate Prices](https://colab.research.google.com/github/mikeninerbravog/POC_ML_RidgeRegression/blob/master/PocMLSupervisedL_RidgeRegression.ipynb)
+- [Forecasting Supermarket Sales](https://colab.research.google.com/github/mikeninerbravog/POC_ML_RidgeRegression/blob/master/PocMLSupervisedL_RidgeRegression.ipynb)
 
 ### Step 2: Install Dependencies (if needed)
 Google Colab usually comes with required libraries pre-installed. However, if needed, run:
